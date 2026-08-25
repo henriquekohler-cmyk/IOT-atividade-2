@@ -1,18 +1,18 @@
-# IOT-atividade-2-repositorio
+# iot-atividade-2-repositorio
 
 Discente: Henrique Jean Köhler  
 Docente: Amanda Paul Dull
 
 Esse repositório serve de exemplo para a entrega de atividades da matéria de IoT.
 
-[![Simular no Tinkercad](https://img.shields.io/badge/SIMULAR_NO-TINKERCAD-FF6B00?style=for-the-badge&logo=autodesk)](INSIRA_AQUI_O_SEU_LINK_PUBLICO_DO_TINKERCAD)
+[![Simular no Tinkercad](https://img.shields.io/badge/SIMULAR_NO-TINKERCAD-FF6B00?style=for-the-badge&logo=autodesk)](https://www.tinkercad.com/things/2ouiV8ardDh-iot-teste-controle-de-microservo-com-potenciometro)
 
 ## Atividade 2: Controle de Microservo com Potenciômetro
 
-O projeto utiliza um potenciômetro como entrada analógica para controlar a posição angular de um microservomotor como saída (atuador). Conforme o potenciômetro é girado, o Arduino mapeia o sinal lido e ajusta a posição do microservo proporcionalmente entre 0° e 180°.
+O projeto vai utilizar um potenciômetro como entrada para controlar a posição de um microservo como saída. Ao girar o potenciômetro, o Arduino lê o sinal analógico e ajusta o ângulo do servo proporcionalmente.
 
-* O Arduino lê a posição do potenciômetro pelo **pino analógico A0**
-* Controla o sinal do microservo pelo **pino digital 9 (PWM)**
+* O Arduino lê o estado do potenciômetro pelo **pino A0**
+* Controla o servo pelo **pino 9**
 
 ## Materiais necessários
 
