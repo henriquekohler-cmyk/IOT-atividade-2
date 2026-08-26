@@ -3,8 +3,6 @@
 Discente: Henrique Jean Köhler  
 Docente: Amanda Paul Dull
 
-Esse repositório serve de exemplo para a entrega de atividades da matéria de IoT.
-
 [![Simular no Tinkercad](https://img.shields.io/badge/SIMULAR_NO-TINKERCAD-FF6B00?style=for-the-badge&logo=autodesk)](https://www.tinkercad.com/things/2ouiV8ardDh-iot-teste-controle-de-microservo-com-potenciometro)
 
 ## Atividade 2: Controle de Microservo com Potenciômetro
